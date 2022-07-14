@@ -18,5 +18,5 @@ class Shape{
     
 }
 // we will be using object destructing 
-module.exports={Shape}
+module.exports={Shape};
 // export class using module.exports
