@@ -6,15 +6,17 @@ class Shape{
     }
 
     drawShape(){
+        console.log("draw shappe")
 
     }
 
     calculateArea(){
+        
 
     }
 
     
 }
 // we will be using object destructing 
-module.exports={drawShape,calculateArea}
+module.exports={Shape}
 // export class using module.exports
